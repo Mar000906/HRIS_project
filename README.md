@@ -38,7 +38,6 @@ Grâce à une interface simple et intuitive, il aide les départements RH à gag
 - **Frontend :** HTML, CSS, JavaScript  
 - **Graphiques :** Chart.js  
 - **Export Excel :** PhpSpreadsheet (optionnel)  
-- **Envoi d’e-mails :** PHPMailer (optionnel)  
  
 
 ---
@@ -60,93 +59,147 @@ L’objectif principal du projet est de permettre aux managers et RH de :
 
 1️⃣ Login 🔑
 
-
 Page pour se connecter au système.
+
+<img width="1306" height="564" alt="image" src="https://github.com/user-attachments/assets/66479fe2-27de-46c1-9b3c-5012607c52fc" />
+
+
+
+
 
 2️⃣ Register ✍️
 
 
 Créer un nouveau compte utilisateur.
 
+<img width="1305" height="612" alt="image" src="https://github.com/user-attachments/assets/6a769dae-a0f0-489d-83bf-039135d68a30" />
+
+
 3️⃣ Dashboard 📊
 
 
 Tableau de bord avec statistiques, graphiques et notifications.
+
+<img width="1304" height="606" alt="image" src="https://github.com/user-attachments/assets/5c484b50-661a-495d-9dc4-3b7c2518646a" />
+
 
 4️⃣ Modifier Profil 🖊️
 
 
 Modifier informations personnelles et photo de profil.
 
-5️⃣ Modifier Description 📝
+<img width="1302" height="594" alt="image" src="https://github.com/user-attachments/assets/6e954126-2dcc-42b2-8db2-71f64481a1da" />
 
 
-Ajouter ou modifier la description personnelle.
 
 6️⃣ Départements 🏢
 
 
 Liste des départements existants.
 
+<img width="1308" height="707" alt="image" src="https://github.com/user-attachments/assets/7576de04-065b-4b3d-8601-08d0dc7ce2a3" />
+
+
 7️⃣ Ajouter Département ➕
 
 
 Formulaire pour créer un nouveau département.
+
+<img width="1304" height="537" alt="image" src="https://github.com/user-attachments/assets/cbfbe054-da4e-43bf-b37a-73b177256ec9" />
+
 
 8️⃣ Postes 💼
 
 
 Liste des postes disponibles.
 
+<img width="1309" height="726" alt="image" src="https://github.com/user-attachments/assets/f540bdd2-9752-4eb8-b0a0-93b5c62d5a97" />
+
+
 9️⃣ Ajouter Poste ➕
 
 
 Formulaire pour ajouter un nouveau poste.
 
-10️⃣ Employés 👥
+<img width="1309" height="550" alt="image" src="https://github.com/user-attachments/assets/f1b7a7cc-5d7d-4852-997f-ca56d60cd7d4" />
+
+
+1️⃣0️⃣ Employés 👥
 
 
 Liste des employés avec leurs informations.
 
-11️⃣ Ajouter Employé ➕
+<img width="1306" height="616" alt="image" src="https://github.com/user-attachments/assets/bf72bbb4-db88-4d78-84a9-281d24f31350" />
+
+
+1️⃣1️⃣ Ajouter Employé ➕
 
 
 Formulaire pour ajouter un nouvel employé.
 
-12️⃣ Congés 🌴
+<img width="1307" height="727" alt="image" src="https://github.com/user-attachments/assets/a297bc19-8b90-46cf-8f33-91aaeee22ddd" />
+
+
+1️⃣2️⃣ Congés 🌴
 
 
 Liste des congés soumis et leur statut.
 
-13️⃣ Ajouter Congé ➕
+
+<img width="1309" height="608" alt="image" src="https://github.com/user-attachments/assets/e3f43fab-5cdf-489f-ae2a-05827b73d238" />
+
+
+1️⃣3️⃣ Ajouter Congé ➕
 
 
 Formulaire pour créer un congé pour un employé.
 
-14️⃣ Présences 🕒
+<img width="1304" height="565" alt="image" src="https://github.com/user-attachments/assets/d401ba39-b1a4-45bc-a0d5-57b3006558b9" />
+
+
+
+1️⃣4️⃣ Présences 🕒
 
 
 Suivi des présences quotidiennes.
 
-15️⃣ Ajouter Présence ➕
+<img width="1308" height="616" alt="image" src="https://github.com/user-attachments/assets/de06151f-2cb0-4316-9dea-9f9c4399ba63" />
+
+
+1️⃣5️⃣ Ajouter Présence ➕
 
 
 Formulaire pour enregistrer ou corriger une présence.
 
-16️⃣ Paiements 💰
+<img width="1305" height="502" alt="image" src="https://github.com/user-attachments/assets/7f4ffd01-a750-4016-bf8a-9e16a31558ba" />
+
+
+
+1️⃣6️⃣ Paiements 💰
 
 
 Liste des paiements et salaires versés.
 
-17️⃣ Ajouter Paiement ➕
+<img width="1305" height="531" alt="image" src="https://github.com/user-attachments/assets/2149fc54-8458-4468-b4ff-330c66157e72" />
+
+
+
+1️⃣7️⃣ Ajouter Paiement ➕
 
 
 Formulaire pour enregistrer un paiement ou salaire.
 
-18️⃣ Rapport 📈
+<img width="1309" height="579" alt="image" src="https://github.com/user-attachments/assets/4b73a26e-8502-40c2-b67b-2602f85d4bf8" />
+
+
+
+1️⃣8️⃣ Rapport 📈
 
 
 Rapports interactifs avec graphiques et export Excel/CSV.
+
+
+<img width="1301" height="726" alt="image" src="https://github.com/user-attachments/assets/6eb63e02-351d-4f8f-9a6c-77aa867cf849" />
 
 ----
 
@@ -157,7 +210,7 @@ Rapports interactifs avec graphiques et export Excel/CSV.
 - **Nom :** Marwa Halli  
 - 🎓 Étudiante en Intelligence Artificielle 
 - 📍 Basée au Maroc  
-- 📧 Contact : [marwamar870@gmail.com](mailto:marwamar870@gmail.com)  
+- 📧 Contact : [marwa.halli@uit.ac.ma](mailto:marwa.halli@uit.ac.ma)  
 
 
 
