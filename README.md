@@ -54,7 +54,7 @@ L’objectif principal du projet est de permettre aux managers et RH de :
 
 ---
 
-📌 Pages du projet
+## 📌 Pages du projet
 
 
 1️⃣ Login 🔑
